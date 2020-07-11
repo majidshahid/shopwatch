@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+#min,#sec,#msec,#hours{
+    display: inline-block;
+    width: 2em;
+    background-color: white;
+    color: black;
+    
+}
+button{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 35px;
+}
